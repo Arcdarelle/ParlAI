@@ -52,7 +52,7 @@ check out [NEWS.md](https://github.com/facebookresearch/ParlAI/blob/main/NEWS.md
 
 <p align="center"><img width="90%" src="https://raw.githubusercontent.com/facebookresearch/ParlAI/main/docs/source/_static/img/parlai_example.png" /></p>
 
-## Interactive Tutorial
+## Interactive Tutorial of Parlai
 
 For those who want to start with ParlAI now, you can try our [Colab Tutorial](https://colab.research.google.com/drive/1bRMvN0lGXaTF5fuTidgvlAl-Lb41F7AD#scrollTo=KtVz5dCUmFkN).
 
